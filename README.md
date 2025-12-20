@@ -43,10 +43,9 @@
 - Collects CPU/Memory/Disk/Network metrics and stores time-series data in SQL Server
 - Background services for data collection + scheduled anomaly prediction
 - KPI dashboard + email alert workflow
-- Tech: ASP.NET Core / C# / SQL Server / ML.NET / Azure (optional)
+- Tech: ASP.NET Core / C# / SQL Server / ML.NET / Azure
 
-Repo: https://github.com/shivamdeadlocker/<AIMMS-REPO>
-Demo/Screenshots: <ADD_LINK>
+Repo: https://github.com/shivamdeadlocker/AI_Powered_Monitoring_System
 
 ---
 
